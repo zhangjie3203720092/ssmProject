@@ -12,6 +12,10 @@ import java.util.Map;
  */
 public class EncodingFiter implements Filter {
 
+
+
+
+
 	private String encoding = "UTF-8";// 默认字符集
 
 	public EncodingFiter() {
